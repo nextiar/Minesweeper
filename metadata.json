@@ -1,0 +1,5 @@
+{
+  "name": "Minesweeper Pro",
+  "description": "A modern, responsive implementation of the classic Minesweeper game featuring multiple difficulty levels, first-click safety, and a clean UI.",
+  "requestFramePermissions": []
+}
